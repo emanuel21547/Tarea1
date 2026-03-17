@@ -1,6 +1,7 @@
+
 /* Set a background image by replacing the URL below */
 body {
- background: url('') no-repeat center center;
+ background: url('../img/diseno-futurista-fondo_23-2148503793.avif') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
